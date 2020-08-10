@@ -1,4 +1,4 @@
-# OnlineAdsClickThroughPrediction
+# Online Advertisement Click Through Prediction
 
 This project involves predicting probability of clicks for online advertisements. The training data consists of data from a website for 9 days from October 21, 2014 to October 29, 2014. There are **in excess of 30 million records** in the training data. The variables are as follows:
 - id = the identifier of the ad (this may, or may not be unique to each row).
