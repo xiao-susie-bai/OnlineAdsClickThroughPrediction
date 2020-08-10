@@ -18,7 +18,9 @@ This project involves predicting probability of clicks for online advertisements
 - device_type = the type of the device.
 - device_conn_type = the type of the device’s connection
 - C14 – C21 = anonymized categorical variables
+
 There are 24 columns in the training dataset. Note that almost all the variables are categorical variables. The variable “click” (binary - "1"/"0") is the Y-variable here.
+
 The testing data consists of about **13 million records** that have not appeared in the training data, and all variables as in the training data except the target variable "click".
 
 The model evaluation metric used here is log-loss (binary cross-entropy).
